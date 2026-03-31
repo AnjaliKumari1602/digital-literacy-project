@@ -1,19 +1,20 @@
-My Digital Literacy Project
- Student  Name: Anjali Kumari
- Reg No: 25BAI10631 
- Course: CSE0001 – Digital Literacy 
- Project Overview This project is created as part of the Digital Literacy course at VIT Bhopal. It focuses on building awareness about digital tools, professional online presence, communication, and cyber safety. 
-Tasks Included
-Task 1: Digital Literacy Infographic Created an infographic using Canva explaining digital literacy, safe internet practices, and useful tools. 
+Digital Literacy Project
+Name: Anjali Kumari 
+Reg No: 25BAI10631 
+Course: CSE0001 – Digital Literacy  
+## Project Overview This project is created as part of the Digital Literacy course at VIT Bhopal. It focuses on building awareness about digital tools, professional online presence, communication, and cyber safety. #
+Task 1: Digital Literacy Infographic Created an infographic using Canva explaining digital literacy, safe internet practices, and useful tools.
 Task 2: Digital Portfolio Set up professional profiles on Kaggle, ResearchGate and LinkedIn.
-Task 3: Platforms Exploration Solved coding problems on HackerRank and created a Google Form quiz.
-Task 4: Email Etiquette Drafted professional emails and created social media guidelines. 
+Task 3: Platforms Exploration Solved coding problems on HackerRank and created a Google Form quiz. 
+Task 4: Email Etiquette Drafted professional emails and created social media guidelines.
 Task 5: Cybercrime Awareness Created a case study and a prevention checklist. 
 Google Form Link https://docs.google.com/forms/d/e/1FAIpQLSfYAYIzSuqmysa94N2FIqgllRMKDMNmSHA_-7 D_3s3FMgSqCQ/viewform?usp=publish-editor 
-Tools Used
+Tools Used 
 - Canva
 - GitHub
-- ResearchGate  
--  HackerRank
+- ResearchGate
+-HackerRank
 - Google Forms
 - Kaggle
+I am a first-year B.Tech student pursuing B.Tech in CSE Specialized in Artificial Intelligence and Machine Learning.
+Conclusion This project helped me understand the importance of digital literacy, professional communication, and online safety in today's world.
